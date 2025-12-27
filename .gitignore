@@ -16,3 +16,5 @@ a.out
 *.reports
 *.DS_*
 *.log
+*.s
+*.exe
